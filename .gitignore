@@ -1,0 +1,7 @@
+d-rest-venv/bin/Activate.ps1
+d-rest-venv/bin/
+d-rest-venv/lib/
+.env/
+__pycache__/
+*.pyc
+*.pyo
