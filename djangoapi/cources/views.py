@@ -7,7 +7,4 @@ class CourceView(viewsets.ModelViewSet):
     queryset = Cource.objects.all()
     serializer_class = CourceSerializer
 
-
-
-
 # Create your views here.
